@@ -1,0 +1,47 @@
+oop vs procedural
+
+function getCourse(id);
+function displayCourseList();
+function displayStudentList();
+
+
+
+
+oop: class
+Student, Teacher, Course, Place
+
+class Student{
+    id,
+    firstName,
+    lastName,
+    email
+
+    function getCourse(id);
+}
+
+class Teacher{
+    id,
+    firstName,
+    lastName,
+    email
+
+
+    function displayCourseList();
+    function displayStudentList(id_course);
+}
+
+
+
+
+procedural: function
+
+
+
+only function: C, assembly
+only oop: java, C#
+
+functional and class: js, ts, php, python, c++
+
+recommanded function: js
+recommanded class: python , ts
+
